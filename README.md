@@ -120,7 +120,7 @@ Below are screenshots as proof of actions performed on the Stacks network:
 
 Seller submits LC creation request (submit):
 
-![Deploy Success](./images/C:\Users\ADMIN\Pictures\Screenshots\Screenshot 2025-08-03 222334.png)
+<img width="1435" height="630" alt="Image" src="https://github.com/user-attachments/assets/3400ee1e-1a83-4fac-b13f-74e172693a96" />
 
 Seller submits documents (submit document):
 
