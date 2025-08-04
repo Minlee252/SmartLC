@@ -1,6 +1,6 @@
-Project Name: SmartLC - Smart Letter of Credit on Blockchain
+-Project Name: SmartLC - Smart Letter of Credit on Blockchain
 
-Team Members:
+-Team Members:
 
 Trần Thị Linh Chi
 
@@ -10,15 +10,15 @@ Lê Hữu Sơn
 
 Lê Ngọc Minh
 
-Representative Name and Email:
+-Representative Name and Email:
 
 Lê Ngọc Minh - minhle.06666666@gmail.com
 
-Project Description:
+-Project Description:
 
 SmartLC is a project that builds an intelligent Letter of Credit (L/C) management system based on the Stacks blockchain. It uses Clarity smart contract language and integrates with Stacks SDK libraries.
 
-Objectives:
+-Objectives:
 
 Create and manage LC contracts on the Stacks blockchain.
 
@@ -28,37 +28,31 @@ Build APIs for backend and smart contract communication.
 
 Manage document data using hash (SHA256).
 
-Project Structure:
+-Project Structure:
 
-pj-smartLC/
-├── contracts/              # Clarity smart contracts
-├── scripts/                # Scripts for deploying & testing contracts
-├── api/                    # Backend API to interact with smart contracts
-├── node_modules/           # Dependency libraries (Stacks SDK & Clarity tools)
-├── package.json            # Dependency & npm script manager
-└── README.md               # Documentation (this file)
+<img width="732" height="207" alt="Image" src="https://github.com/user-attachments/assets/b06c4f70-f3c4-48ee-b050-3c8b7fff427b" />
 
-Installation:
+-Installation:
 
 git clone https://github.com/Minlee252/SmartLC.git
 cd pj-smartLC
 npm install
 
-Usage:
+-Usage:
 
-Deploy Clarity Smart Contract:
++Deploy Clarity Smart Contract:
 
 Example of deploying contract to testnet:
 
 clarinet deploy
 
-Interact with Smart Contract via API:
++Interact with Smart Contract via API:
 
 npm run start
 
 Then visit: http://localhost:5173/
 
-Main Components:
+-Main Components:
 
 contracts/: LC logic written in Clarity.
 
@@ -66,7 +60,7 @@ api/: NodeJS backend using Stacks.js to interact with the blockchain.
 
 scripts/: Scripts to support build/deploy/test contracts.
 
-Technologies Used:
+-Technologies Used:
 
 Stacks Blockchain & Clarity Smart Contract
 
@@ -74,7 +68,7 @@ Node.js & Stacks.js SDK
 
 Clarinet: Clarity development environment.
 
-Project Evaluation Criteria:
+-Project Evaluation Criteria:
 
 SmartLC is currently in the development phase. The core backend logic and smart contracts have been built. The UI prototype is under development and not yet fully functional. The Stacks Wallet is integrated via Leather Wallet, supporting experimental operations with smart contracts.
 
@@ -110,7 +104,7 @@ README file detailing the project idea, main functions, and installation guide.
 
 Stacks wallet addresses (STX Address) will be provided below.The development team commits to providing complete wallet information in this README file.
 
-Deployment Proof Images:
+-Deployment Proof Images:
 
 Buyer's wallet address: ST2PRNFXSYNDK0HQXXQ1SQAQWNEVVFV0W00QW28TC.
 
