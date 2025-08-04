@@ -124,13 +124,12 @@ Seller submits LC creation request (submit):
 
 Seller submits documents (submit document):
 
-![Deploy Success](./images/C:\Users\ADMIN\Pictures\Screenshots\Screenshot 2025-08-03 223356.png)
+<img width="1434" height="627" alt="Image" src="https://github.com/user-attachments/assets/9ceb6e40-dc09-4dd8-b492-833177dcc54c" />
 
 Buyer confirms delivery (confirm delivery):
 
-![Deploy Success](./images/C:\Users\ADMIN\Pictures\Screenshots\Screenshot 2025-08-03 223541.png)
+<img width="1434" height="632" alt="Image" src="https://github.com/user-attachments/assets/0bda0c9c-b115-4da8-a301-f3cdf30d72e9" />
 
 Buyer cancel delivery (cancel delivery):
 
-![Deploy Success](./images/C:\Users\ADMIN\Pictures\Screenshots\Screenshot 2025-08-03 235255.png)
-
+<img width="1446" height="630" alt="Image" src="https://github.com/user-attachments/assets/359f7af3-3f83-4906-a62b-7b0975dfe0a0" />
