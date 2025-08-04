@@ -31,7 +31,6 @@ Manage document data using hash (SHA256).
 Project Structure:
 
 pj-smartLC/
-<<<<<<< HEAD
 ├── contracts/              # Clarity smart contracts
 ├── scripts/                # Scripts for deploying & testing contracts
 ├── api/                    # Backend API to interact with smart contracts
@@ -40,16 +39,6 @@ pj-smartLC/
 └── README.md               # Documentation (this file)
 
 Installation:
-=======
-├── contracts/              # Các hợp đồng Clarity
-├── scripts/                # Script deploy & test hợp đồng
-├── api/                    # API Backend xử lý giao tiếp với smart contract
-├── node_modules/           # Thư viện dependencies (Stacks SDK & Clarity tools)
-├── package.json            # Quản lý dependencies & script npm
-└── README.md               # Tài liệu hướng dẫn (file này)
-
--Cài đặt
->>>>>>> 5d348697435fc7728081b52a1d6b1d9ff55873a2
 
 git clone https://github.com/Minlee252/SmartLC.git
 cd pj-smartLC
