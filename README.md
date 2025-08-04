@@ -25,23 +25,11 @@ Quản lý dữ liệu tài liệu dưới dạng hash (SHA256).
 -Cấu trúc dự án
 
 pj-smartLC/
-
-
 ├── contracts/              # Các hợp đồng Clarity
-
-
 ├── scripts/                # Script deploy & test hợp đồng
-
-
 ├── api/                    # API Backend xử lý giao tiếp với smart contract
-
-
 ├── node_modules/           # Thư viện dependencies (Stacks SDK & Clarity tools)
-
-
 ├── package.json            # Quản lý dependencies & script npm
-
-
 └── README.md               # Tài liệu hướng dẫn (file này)
 
 -Cài đặt
